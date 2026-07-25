@@ -1,4 +1,6 @@
-# 台灣政治事件記錄簿  ![https://taiwan2026.github.io/taiwan-number-one](https://taiwan2026.github.io/taiwan-number-one)  
+# 台灣政治事件記錄簿  
+
+[https://taiwan2026.github.io/taiwan-number-one](https://taiwan2026.github.io/taiwan-number-one)  
 ---  
 
 - [2024美國預測中國攻打台灣的進度，已經一一實現](https://taiwan2026.github.io/taiwan-number-one?article_id=247)  
