@@ -1,7 +1,7 @@
-# 台灣政治事件記錄簿  ![https://taiwan2026.github.io/taiwan-number-one](https://taiwan2026.github.io/taiwan-number-one)  ---
-
-# （測試中）可下載/singleFile/index.html 在電腦本機上開啟 ---
-
+# 台灣政治事件記錄簿
+# [https://taiwan2026.github.io/taiwan-number-one](https://taiwan2026.github.io/taiwan-number-one)  
+# （測試中）可下載/singleFile/index.html 在電腦本機上開啟  
+![DEMO](https://github.com/taiwan2026/taiwan-number-one/blob/main/demo.gif)
 - [簡舒培｜民進黨大安、文山議員](https://taiwan2026.github.io/taiwan-number-one?article_id=263)  
 - [慣籃高手](https://taiwan2026.github.io/taiwan-number-one?article_id=262)  
 - [蔣萬安指使李四川團隊的人，「製作偽造總統（三軍總帥）聲音的影片」，藍白還覺得不犯法，是低能兒覺得這跟國安無關嗎？](https://taiwan2026.github.io/taiwan-number-one?article_id=261)  
