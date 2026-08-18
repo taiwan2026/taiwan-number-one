@@ -1,5 +1,5 @@
 #  台灣政治事件記錄簿
-#  網址![https://taiwan2026.github.io/taiwan-number-one](https://taiwan2026.github.io/taiwan-number-one)  
+#  網址 [https://taiwan2026.github.io/taiwan-number-one](https://taiwan2026.github.io/taiwan-number-one)  
 可下載/singleFile/index.html 在電腦本機上開啟（測試中）  
 ![DEMO](https://github.com/taiwan2026/taiwan-number-one/blob/main/demo.gif)
 - [翁曉玲喊凍結4個月薪水，卓榮泰：若能阻止「軍人投共刑期減少」願意減薪](https://taiwan2026.github.io/taiwan-number-one?article_id=281)  
