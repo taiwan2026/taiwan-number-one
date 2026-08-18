@@ -1,5 +1,7 @@
-台灣政治事件記錄簿  ![https://taiwan2026.github.io/taiwan-number-one](https://taiwan2026.github.io/taiwan-number-one)  可下載/singleFile/index.html 在電腦本機上開啟（測試中）  
-
+#  台灣政治事件記錄簿
+#  網址![https://taiwan2026.github.io/taiwan-number-one](https://taiwan2026.github.io/taiwan-number-one)  
+可下載/singleFile/index.html 在電腦本機上開啟（測試中）  
+![DEMO](https://github.com/taiwan2026/taiwan-number-one/blob/main/demo.gif)
 - [翁曉玲喊凍結4個月薪水，卓榮泰：若能阻止「軍人投共刑期減少」願意減薪](https://taiwan2026.github.io/taiwan-number-one?article_id=281)  
 - [宋麗華｜國民黨屏東議員](https://taiwan2026.github.io/taiwan-number-one?article_id=280)  
 - [內湖南港議員參選人「陳又新」教你：台灣該怎麼做，才能真正讓兩岸「維持現狀」](https://taiwan2026.github.io/taiwan-number-one?article_id=279)  
