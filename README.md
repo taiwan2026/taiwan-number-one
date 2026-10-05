@@ -1,4 +1,4 @@
-#  台灣政治事件記錄簿
+#  台灣政治人物爭議查詢系統
 #  網址 [https://taiwan2026.github.io/taiwan-number-one](https://taiwan2026.github.io/taiwan-number-one)  
 可下載/singleFile/index.html 在電腦本機上開啟（測試中）  
 ![DEMO](https://github.com/taiwan2026/taiwan-number-one/blob/main/demo.gif)
