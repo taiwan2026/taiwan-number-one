@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://taiwan2026.github.io/taiwan-number-one/sitemap.xml
